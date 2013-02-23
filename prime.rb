@@ -1,4 +1,5 @@
 # this is another test
+# and yet another test
 print "Input number(Max Limit = 9999999): "
 number = gets.chomp.to_i
 prime = true
