@@ -1,6 +1,6 @@
 # Fibonacci Compiler by Tyler Kui
 # Description: Finds numbers of Fiobnacci Sequences(outputs to max limit)
-# --------------------------------------------------------------------------
+# -----------------------------------------------------------------------
 
 # Varibles
 f1 = 0
